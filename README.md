@@ -1,12 +1,9 @@
 # Hi, I'm Chhavi Mishra 👋
 
 🎓 B.Tech Mechanical Engineering @ MNIT Jaipur  
-💻 Aspiring Software Development Engineer  
+💻 Aspiring Software Development Engineer
 🌱 Currently learning: Computer Vision (CNNs), RAG, LLM pipelines  
-🏆 GSSoC'26 Contributor (Open Source + AI/Agentic Track)  
-⚡ JEE Mains 98.06 Percentile | NTSE State Rank 20  
-🏅 Codeforces Rating: 939
-
+🏆 GSSoC'26 Contributor
 ---
 
 ## 🛠️ Tech Stack
