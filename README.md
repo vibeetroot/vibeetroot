@@ -1,7 +1,7 @@
 # Hi, I'm Chhavi Mishra 👋
 
 🎓 B.Tech Mechanical Engineering @ MNIT Jaipur  
-💻 Aspiring Software Development Engineer
+💻 Aspiring Software Development Engineer  
 🌱 Currently learning: Computer Vision (CNNs), RAG, LLM pipelines  
 🏆 GSSoC'26 Contributor
 ---
