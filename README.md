@@ -2,7 +2,7 @@
 
 # Hi, I'm Chhavi Mishra 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Open+Source+Contributor+%7C+GSSoC+%2726;ML+%7C+LLM+Pipelines+%7C+Agentic+AI;%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%7C+GSSoC+%2726;ML+%7C+LLM+Pipelines+%7C+Agentic+AI;Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
