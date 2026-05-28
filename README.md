@@ -137,11 +137,11 @@ chhavi = {
 ## 📈 GitHub Stats
 
 <div align="center">
+    
+![Chhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibeetroot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=8)
 
-![Chhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibeetroot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vibeetroot&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vibeetroot&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
 </div>
 
