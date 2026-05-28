@@ -147,16 +147,6 @@ chhavi = {
 
 ---
 
-## 🏆 Highlights
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=vibeetroot&theme=darkhub&no-frame=true&column=6&margin-w=10)
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -172,7 +162,7 @@ chhavi = {
 <div align="center">
 
 ```
-currently grinding DSA daily ⚡ building things in public 🛠️ open to collabs 🤝
+currently grinding DSA daily ⚡ building things in public 🛠️ 
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vibeetroot&color=00d9ff&style=flat&label=profile+views)
