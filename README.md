@@ -40,7 +40,7 @@ chhavi = {
 </td>
 <td width="50%">
 
-### 📊 GradeScope — CGPA Forecaster
+### 📊 GradeScope : CGPA Forecaster
 `Flask` `Scikit-learn` `Pandas` `Ensemble ML`
 
 - 4-model weighted ensemble, **60%+ within-1-grade accuracy**
