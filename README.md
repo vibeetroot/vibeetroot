@@ -2,7 +2,7 @@
 <h3 align="center">~ Brewing Intelligence, One Commit at a Time ~</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Accio+Knowledge.;Building+Intelligent+Systems.;Open+Source+%7C+MNIT+Jaipur." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Open+Source+Contributor.;Vision-Language+Researcher+%7C+MNIT+Jaipur.;Building+Intelligent+Systems." />
 </p>
 
 <p align="center"><em>"It is our choices that show what we truly are, far more than our abilities."</em> 🦅</p>
@@ -27,7 +27,12 @@
 
 <h3 align="center">🤖 ML & AI</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv,sklearn" />
+</p>
+
+<h3 align="center">📊 Data & Research</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,anaconda" />
 </p>
 
 <h3 align="center">🌐 Web & Backend</h3>
@@ -37,7 +42,7 @@
 
 <h3 align="center">🧰 Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
 </p>
 
 ---
@@ -77,12 +82,16 @@
   <img src="https://streak-stats.demolab.com?user=vibeetroot&theme=tokyonight&hide_border=true&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&theme=tokyonight&hide_border=true&title_color=C9A84C" />
+</p>
+
 ---
 
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibeetroot&theme=react-dark&color=C9A84C&line=C9A84C&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibeetroot&theme=react-dark&color=C9A84C&line=C9A84C&point=ffffff&area=true" />
 </p>
 
 ---
