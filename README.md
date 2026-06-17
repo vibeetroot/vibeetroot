@@ -1,5 +1,5 @@
 <h1 align="center">✦ Chhavi Mishra ✦</h1>
-<h3 align="center">~ Brewing Intelligence, One Commit at a Time ~</h3>
+<h3 align="center">~ Brewing curiosity, One Commit at a Time ~</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Building+Things.;ML+%26+AI+%7C+Open+Source.;MNIT+Jaipur+%7C+GSSoC+%2726." />
