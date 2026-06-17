@@ -2,7 +2,7 @@
 <h3 align="center">~ Brewing Intelligence, One Commit at a Time ~</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Open+Source+Contributor.;Vision-Language+Researcher+%7C+MNIT+Jaipur.;Building+Intelligent+Systems." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Building+Things.;ML+%26+AI+%7C+Open+Source.;MNIT+Jaipur+%7C+GSSoC+%2726." />
 </p>
 
 <p align="center"><em>"It is our choices that show what we truly are, far more than our abilities."</em> 🦅</p>
@@ -22,17 +22,18 @@
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,java" />
 </p>
 
 <h3 align="center">🤖 ML & AI</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda" />
 </p>
-
-<h3 align="center">📊 Data & Research</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,anaconda" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
 </p>
 
 <h3 align="center">🌐 Web & Backend</h3>
@@ -43,6 +44,11 @@
 <h3 align="center">🧰 Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+</p>
+<p align="center">
+  <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
@@ -57,18 +63,6 @@
 
 **😷 Face Mask Detection** `Python · TensorFlow · OpenCV`
 > CNN achieving 95%+ accuracy on 3,800+ images. Real-time inference via OpenCV webcam feed. Explored MiDaS depth estimation and YOLOv8 for spatial awareness.
-
----
-
-## 🌿 Open Source — GSSoC '26
-
-| Repo | Contribution | Status |
-|------|-------------|--------|
-| `fetchai/innovation-lab-examples` | Built news-summarizer-agent — uAgents + Chat Protocol + ASI:One LLM | ⏳ In Review |
-| `GitMetricsLab/github_tracker` | Keyboard navigation & a11y — autoFocus, Escape key, focus-visible rings | ⏳ In Review |
-| `arnio` | Fixed bool type validation bug; applied Black formatting | ✅ Merged |
-| `PixelTruth` | Resolved deprecated `use_column_width()` in Streamlit | ✅ Merged |
-| `med-genie` | Fixed navbar scroll overlap; responsive breakpoint optimization | ✅ Merged |
 
 ---
 
