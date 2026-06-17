@@ -2,21 +2,21 @@
 <h3 align="center">~ Brewing Intelligence, One Commit at a Time ~</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=ML&AI.;Building+Intelligent+Systems.;Open+Source+%7C+MNIT+Jaipur." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Accio+Knowledge.;Building+Intelligent+Systems.;Open+Source+%7C+MNIT+Jaipur." />
 </p>
 
 <p align="center"><em>"It is our choices that show what we truly are, far more than our abilities."</em> 🦅</p>
 
 ---
 
-## 🧠 About Me
+## 🪄 About Me
 
 - 🎓 B.Tech Mechanical Engineering | MNIT Jaipur (2024–2028)
 - 🔬 Researching Chest X-Ray Medical Report Generation (ref: CXPMRG-Bench, CVPR 2025)
 - 🤖 GSSoC '26 Contributor — Open Source & AI/Agentic Tracks
 - 📊 Built GradeScope: live ML-powered CGPA forecasting system
 - 🌿 Self-directing toward ML/AI and Computer Science
-- 🎵 Plays flute · Writes poetry · Learning Spanish
+- 🎵 Plays flute · Writes poetry · Always curious
 
 ---
 
@@ -37,7 +37,7 @@
 
 <h3 align="center">🧰 Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel,render,colab" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
@@ -87,8 +87,8 @@
 
 ---
 
-## 🌐 Connect
+## 🦉 Owl Post
 
-- 🌍 Portfolio: [vibeetroot.github.io](https://vibeetroot.github.io)
-- 💼 LinkedIn: [linkedin.com/in/chhavi-mishra](https://linkedin.com/in/chhavi-mishra)
+- 🌍 Portfolio: [vibeetroot.github.io/portfolio2026](https://vibeetroot.github.io/portfolio2026/)
+- 💼 LinkedIn: [linkedin.com/in/chhavi1729](https://linkedin.com/in/chhavi1729)
 - 📧 Email: 2024ume1593@mnit.ac.in
