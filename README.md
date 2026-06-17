@@ -1,168 +1,113 @@
 <div align="center">
 
-# Hi, I'm Chhavi Mishra 👋
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=32&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Chhavi+Mishra;ML+Engineer+%7C+Open+Source+Contributor;Building+intelligent+systems" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%7C+GSSoC+%2726;ML+%7C+LLM+Pipelines+%7C+Agentic+AI;Building+things+that+matter+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+<p><em>"It is our choices that show what we truly are, far more than our abilities."</em></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vibeetroot-C9A84C?style=flat-square&logo=github&logoColor=white)](https://vibeetroot.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chhavi_Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chhavi-mishra)
+[![Email](https://img.shields.io/badge/Email-2024ume1593@mnit.ac.in-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:2024ume1593@mnit.ac.in)
 
 </div>
 
 ---
 
-## `get to know me`
+### 🧠 About Me
 
 ```python
 chhavi = {
-    "institute"  : "MNIT Jaipur — B.Tech",
-    "focus"      : ["ML/DL", "AI", "LLM Pipelines", "Computer Vision"],
-    "currently"  : "Contributing to GSSoC'26 across Open Source & AI/Agentic tracks",
-    "learning"   : ["RAG", "CNNs", "uAgents Framework", "System Design"],
-    "ask_me_about": "ML projects, open source, Flask APIs, or DSA grind"
+    "university"  : "MNIT Jaipur — B.Tech Mechanical Engineering (2024–2028)",
+    "focus"       : ["Machine Learning", "Computer Vision", "Open Source"],
+    "research"    : "Chest X-Ray Medical Report Generation (CVPR 2025 reference)",
+    "currently"   : "GSSoC '26 Contributor · AI/Agentic & Open Source Tracks",
+    "fun_fact"    : "Sorted into Ravenclaw 🦅 · Plays flute · Writes poetry",
 }
 ```
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 😷 Face Mask Detection
-`TensorFlow` `Keras` `OpenCV` `CNN`
-
-- **97.7% accuracy** on 7,553 images
-- Real-time webcam inference with Haar Cascade
-- GSSoC'26 contribution
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/vibeetroot/Face-mask-detection)
-
-</td>
-<td width="50%">
-
-### 📊 GradeScope : CGPA Forecaster
-`Flask` `Scikit-learn` `Pandas` `Ensemble ML`
-
-- 4-model weighted ensemble, **60%+ within-1-grade accuracy**
-- Custom k-NN SMOTE built from scratch (370 → 500+ samples)
-- Live REST API deployed on Render
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/vibeetroot/gradescope) [![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=flat&logo=render)](https://gradescope.onrender.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 News Summarizer Agent
-`uAgents` `ASI:One LLM` `NewsAPI` `Python`
-
-- Fetches top 5 headlines for any topic via NewsAPI
-- Summarizes using ASI:One LLM in real-time
-- GSSoC'26 — Fetch.ai Innovation Lab contribution
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/vibeetroot/innovation-lab-examples)
-
-</td>
-<td width="50%">
-
-### 🌐 SAE MNIT Official Website
-`HTML` `CSS` `JavaScript` `Vercel`
-
-- Developed & deployed official website for SAE MNIT Jaipur
-- Managed version control and hosting end-to-end
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/vibeetroot/sae-mnit) [![Live](https://img.shields.io/badge/Live-Demo-000000?style=flat&logo=vercel)](https://saemnit.vercel.app)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **ML & AI**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Web & Backend**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
-## 🌟 Open Source
+### 🔬 Projects
 
-<table>
-<tr>
-<td>
+**🫁 Chest X-Ray Medical Report Generation** `Research · MNIT Jaipur`
+> Automated radiology report generation using vision-language models. Referencing CXPMRG-Bench (CVPR 2025). Studying MambaXray-VL with a three-stage pretraining pipeline — autoregressive generation, X-ray report contrastive learning, and supervised fine-tuning on CheXpert Plus.
 
-**GirlScript Summer of Code 2026** `GSSoC'26`
-- Selected across **Open Source** and **AI/Agentic** tracks
-- Contributing to ML and Agentic AI repos
-- Real PRs, maintainer reviews, production-grade code
+**📊 GradeScope: CGPA Forecast System** `Python · Flask · Scikit-learn` · [Live](https://gradescope.onrender.com) · [GitHub](https://github.com/vibeetroot/GradeScope)
+> 4-model weighted ensemble (RF, GB, Extra Trees, Ridge) on 370+ survey responses. Custom k-NN SMOTE from scratch. Flask REST API with per-subject predictions and multi-semester trend projection.
 
-</td>
-</tr>
-</table>
+**😷 Face Mask Detection** `Python · TensorFlow · OpenCV` · [GitHub](https://github.com/vibeetroot)
+> CNN achieving 95%+ accuracy on 3,800+ images. Real-time inference via OpenCV webcam feed. Explored MiDaS depth estimation and YOLOv8 for spatial awareness.
 
 ---
 
-## 📈 GitHub Stats
+### 🌿 Open Source — GSSoC '26
+
+| Repo | Contribution | Status |
+|------|-------------|--------|
+| `fetchai/innovation-lab-examples` | Built news-summarizer-agent with uAgents + Chat Protocol + ASI:One | ⏳ In Review |
+| `GitMetricsLab/github_tracker` | Keyboard navigation & accessibility (a11y) — autoFocus, Escape key, focus-visible rings | ⏳ In Review |
+| `arnio` | Fixed bool type validation bug; applied Black formatting | ✅ Merged |
+| `PixelTruth` | Resolved deprecated `use_column_width()` in Streamlit | ✅ Merged |
+| `med-genie` | Fixed navbar scroll overlap; responsive breakpoint optimization | ✅ Merged |
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-    
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vibeetroot&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+![Chhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vibeetroot&show_icons=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&border_color=30363d&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vibeetroot&theme=dark&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=30363d&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&theme=dark&title_color=C9A84C&border_color=30363d&bg_color=0d1117)
 
 </div>
 
 ---
 
-## 🌐 Connect
+### 📬 Let's connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vibeetroot.github.io/portfolio2026/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhavimishra.1729@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibeetroot)
+*Currently open to ML internships, research collaborations, and open-source projects.*
 
-</div>
-
----
-
-<div align="center">
-
-```
-currently grinding DSA daily ⚡ building things in public 🛠️ 
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vibeetroot&color=00d9ff&style=flat&label=profile+views)
+[![Portfolio](https://img.shields.io/badge/See_my_work-C9A84C?style=for-the-badge)](https://vibeetroot.github.io)
 
 </div>
