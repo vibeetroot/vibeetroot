@@ -1,8 +1,8 @@
-<h1 align="center">Chhavi Mishra</h1>
-<h3 align="center">ML Engineer · Open Source Contributor · Vision-Language Researcher</h3>
+<h1 align="center">✦ Chhavi Mishra ✦</h1>
+<h3 align="center">~ Brewing Intelligence, One Commit at a Time ~</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems.;Research+%7C+ML+%7C+Open+Source.;MNIT+Jaipur+%7C+GSSoC+%2726." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=ML&AI.;Building+Intelligent+Systems.;Open+Source+%7C+MNIT+Jaipur." />
 </p>
 
 <p align="center"><em>"It is our choices that show what we truly are, far more than our abilities."</em> 🦅</p>
@@ -32,7 +32,7 @@
 
 <h3 align="center">🌐 Web & Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,html,css,fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask,html,css" />
 </p>
 
 <h3 align="center">🧰 Tools & Platforms</h3>
