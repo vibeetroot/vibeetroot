@@ -11,7 +11,7 @@
 
 ## 🪄 About Me
 
-- 🎓 B.Tech Mechanical Engineering | MNIT Jaipur (2024–2028)
+- 🎓 B.Tech | MNIT Jaipur (2024–2028)
 - 🔬 Researching Chest X-Ray Medical Report Generation (ref: CXPMRG-Bench, CVPR 2025)
 - 🤖 GSSoC '26 Contributor — Open Source & AI/Agentic Tracks
 - 📊 Built GradeScope: live ML-powered CGPA forecasting system
