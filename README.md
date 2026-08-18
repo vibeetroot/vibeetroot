@@ -1,97 +1,197 @@
 <h1 align="center">✦ Chhavi Mishra ✦</h1>
-<h3 align="center">~ Brewing curiosity, One Commit at a Time ~</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=26&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Building+Things.;ML+%26+AI+%7C+Open+Source.;MNIT+Jaipur+%7C+GSSoC+%2726." />
+  <b>ML/AI · Computer Vision · Open Source</b>
 </p>
 
-<p align="center"><em>"It is our choices that show what we truly are, far more than our abilities."</em> 🦅</p>
-
----
-
-## 🪄 About Me
-
-- 🎓 B.Tech | MNIT Jaipur (2024–2028)
-- 🔬 Researching Chest X-Ray Medical Report Generation (ref: CXPMRG-Bench, CVPR 2025)
-- 🤖 GSSoC '26 Contributor — Open Source & AI/Agentic Tracks
-- 📊 Built GradeScope: live ML-powered CGPA forecasting system
-- 🌿 Self-directing toward ML/AI and Computer Science
-- 🎵 Plays flute · Writes poetry · Always curious
-
----
-
-<h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,java" />
+  <i>Building things, breaking things, and learning why they broke.</i>
 </p>
 
-<h3 align="center">🤖 ML & AI</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda" />
-</p>
-<p align="center">
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-</p>
-
-<h3 align="center">🌐 Web & Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,html,css" />
-</p>
-
-<h3 align="center">🧰 Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
-</p>
-<p align="center">
-  <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <a href="https://github.com/vibeetroot">
+    <img src="https://img.shields.io/badge/GitHub-vibeetroot-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chhavi1729/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chhavi%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:2024ume1593@mnit.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔬 Projects
+## 👋 About Me
 
-**🫁 Chest X-Ray Medical Report Generation** `Research · MNIT Jaipur`
-> Automated radiology report generation using vision-language models. Studying MambaXray-VL with a three-stage pretraining pipeline — autoregressive generation, X-ray report contrastive learning, and supervised fine-tuning on CheXpert Plus. Reference: CXPMRG-Bench (CVPR 2025).
+I'm a **B.Tech Mechanical Engineering student at MNIT Jaipur**, exploring
+Machine Learning and Computer Science alongside my core engineering background.
 
-**📊 [GradeScope: CGPA Forecast System](https://gradescope.onrender.com)** `Python · Flask · Scikit-learn`
-> 4-model weighted ensemble (RF, GB, Extra Trees, Ridge) on 370+ survey responses. Custom k-NN SMOTE from scratch. Flask REST API with per-subject predictions and multi-semester trend projection.
+My current interests include:
 
-**😷 Face Mask Detection** `Python · TensorFlow · OpenCV`
-> CNN achieving 95%+ accuracy on 3,800+ images. Real-time inference via OpenCV webcam feed. Explored MiDaS depth estimation and YOLOv8 for spatial awareness.
+- 🤖 Machine Learning & Artificial Intelligence
+- 👁️ Computer Vision
+- 🧠 Vision-Language Models
+- 🔬 ML Research
+- 🌱 Open Source
+- 🛠️ Building practical ML applications
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibeetroot&show_icons=true&theme=tokyonight&hide_border=true&title_color=C9A84C&icon_color=C9A84C" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vibeetroot&theme=tokyonight&hide_border=true&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&theme=tokyonight&hide_border=true&title_color=C9A84C" />
-</p>
+Currently working on **Vision-Language Models for automated chest X-ray
+report generation** and exploring how vision and language models can work
+together for real-world problems.
 
 ---
 
-## 🔥 Contribution Graph
+## 🔬 Research
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vibeetroot&theme=react-dark&color=C9A84C&line=C9A84C&point=ffffff&area=true" />
+### 🫁 Automated Chest X-Ray Report Generation
+
+**VLM · PyTorch · Hugging Face Transformers**
+
+Research project at **MNIT Jaipur**.
+
+Currently reproducing **R2GenGPT** on the **IU X-Ray dataset** to establish
+a Vision-Language baseline for automated radiology report generation.
+
+**Working on:**
+
+- 📷 7,470 X-ray images and 3,955 reports
+- 🧠 ViT vision encoder + Llama 2 7B decoder
+- 🔗 Projection layer connecting visual and language representations
+- 🏥 Image-report pair training
+- 📊 Clinical evaluation using GREEN and RadGraph F1
+- 📈 Comparison with BLEU, ROUGE-L, METEOR and CIDEr
+
+---
+
+## 🚀 Projects
+
+### 📊 GradeScope — CGPA Forecast System
+
+**Python · Flask · Scikit-learn · Pandas · NumPy**
+
+A machine-learning powered CGPA prediction system built from student
+performance data.
+
+- Engineered **15 features** from **370+ survey responses**
+- Combined Random Forest, Gradient Boosting, Extra Trees and Ridge
+  into a weighted ensemble
+- Achieved **60%+ within-one-grade accuracy** on unseen data
+- Implemented **k-NN SMOTE from scratch**
+- Built and deployed a **Flask REST API**
+- Provides subject-level predictions and semester forecasting
+
+<p>
+  <a href="https://gradescope.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## 🦉 Owl Post
+### 😷 Face Mask Detection
 
-- 🌍 Portfolio: [vibeetroot.github.io/portfolio2026](https://vibeetroot.github.io/portfolio2026/)
-- 💼 LinkedIn: [linkedin.com/in/chhavi1729](https://linkedin.com/in/chhavi1729)
-- 📧 Email: 2024ume1593@mnit.ac.in
+**Python · TensorFlow · Keras · OpenCV**
+
+A real-time computer vision system for detecting face masks.
+
+- Trained a CNN on **3,800+ images**
+- Applied data augmentation during training
+- Achieved **95%+ detection accuracy**
+- Implemented real-time inference using an OpenCV webcam feed
+
+---
+
+## 🌱 Open Source
+
+### GSSoC 2026 Contributor
+
+Contributed to open-source projects across **Agentic AI and accessibility
+engineering**.
+
+- 🔀 Merged **10+ PRs across 4 repositories**
+- 🤖 Built a **news-summarizer-agent** for `fetchai/innovation-lab-examples`
+- 📰 Implemented an agentic RAG system using **NewsAPI and ASI**
+- 🔐 Fixed an **OTP spam-prevention issue**
+- ⚡ Resolved a **real-time Socket synchronization bug**
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+</p>
+
+### Machine Learning & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+</p>
+
+### Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,html,css,git,github,linux,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Rank 3672** in ICPC Regional among 13,000+ participants nationwide
+- 📈 **98.06 percentile** in JEE Main among 14.2 lakh candidates
+- 🏆 **20th in Uttar Pradesh** in NTSE Stage 1
+- 🥉 **3rd zonally** in the International Mathematics Olympiad
+
+---
+
+## 🎓 Education
+
+**Malaviya National Institute of Technology, Jaipur**
+
+B.Tech in Mechanical Engineering  
+**2024 – 2028 · CGPA: 7.48/10**
+
+---
+
+## 📚 Currently Exploring
+
+```text
+Vision-Language Models
+        │
+        ├── Computer Vision
+        │
+        ├── Large Language Models
+        │
+        ├── Multimodal Learning
+        │
+        └── ML Research
+
+          + 
+
+        Open Source
+        DSA
+        Computer Science
