@@ -168,27 +168,37 @@ engineering**.
 
 ---
 
+## 📊 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vibeetroot&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
+    height="170"
+  />
+</p>
+
+---
+
 ## 🎓 Education
 
 **Malaviya National Institute of Technology, Jaipur**
 
 B.Tech in Mechanical Engineering  
-**2024 – 2028 · CGPA: 7.48/10**
+**2024 – 2028**
 
 ---
 
-## 📚 Currently Exploring
+## 🌐 What I'm Into
 
-```text
-Vision-Language Models
-        │
-        ├── Computer Vision
-        │
-        ├── Large Language Models
-        │
-        ├── Multimodal Learning
-        │
-        └── ML Research
+- 🧠 **Multimodal AI** — connecting vision and language
+- 👁️ **Computer Vision** — understanding images beyond classification
+- 🔬 **ML Research** — reproducing papers and experimenting with architectures
+- 🤖 **Agentic AI** — building systems that can reason and act
+- 🌱 **Open Source** — contributing, debugging, and building with others
 
           + 
 
