@@ -200,8 +200,4 @@ B.Tech in Mechanical Engineering
 - 🤖 **Agentic AI** — building systems that can reason and act
 - 🌱 **Open Source** — contributing, debugging, and building with others
 
-          + 
 
-        Open Source
-        DSA
-        Computer Science
