@@ -172,7 +172,7 @@ engineering**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=vibeetroot&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vibeetroot&theme=tokyo-night&hide_border=true&area=true"
     height="170"
   />
   <img
