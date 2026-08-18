@@ -171,14 +171,8 @@ engineering**.
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vibeetroot&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibeetroot&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
-    height="170"
-  />
+  <img src="./profile/stats.svg" height="170"/>
+  <img src="./profile/top-langs.svg" height="170"/>
 </p>
 
 ---
