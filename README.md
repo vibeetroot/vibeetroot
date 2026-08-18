@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/chhavi1729/">
     <img src="https://img.shields.io/badge/LinkedIn-Chhavi%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:2024ume1593@mnit.ac.in">
+  <a href="mailto:chhavimishra.1729@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
