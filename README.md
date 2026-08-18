@@ -1,7 +1,7 @@
 <h1 align="center">✦ Chhavi Mishra ✦</h1>
 
 <p align="center">
-  <b>ML/AI · Computer Vision · Open Source</b>
+  <b>ML/AI · Computer Vision · AI Agents</b>
 </p>
 
 <p align="center">
